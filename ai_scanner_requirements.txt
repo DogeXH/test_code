@@ -1,0 +1,8 @@
+requests>=2.31.0
+urllib3>=2.0.0
+statistics  # Built-in module
+argparse    # Built-in module
+json        # Built-in module
+subprocess  # Built-in module
+tempfile    # Built-in module
+base64      # Built-in module
